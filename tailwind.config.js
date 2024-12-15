@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage : {
-        'custom-pattern': "url('/images/background.svg')",
+        'custom-pattern': "url('/images/bg.svg')",
+        'back-pattern': "url('/images/bg2.jpg')",
         'another-pattern': "url('/path-to-another-image.jpg')",
       },
       colors: {
